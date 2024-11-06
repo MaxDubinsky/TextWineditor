@@ -1,0 +1,11 @@
+C:\Users\Максим\source\repos\TextWineditor\TextWineditor\bin\Debug\TextWineditor.exe.config
+C:\Users\Максим\source\repos\TextWineditor\TextWineditor\bin\Debug\TextWineditor.exe
+C:\Users\Максим\source\repos\TextWineditor\TextWineditor\bin\Debug\TextWineditor.pdb
+C:\Users\Максим\source\repos\TextWineditor\TextWineditor\obj\Debug\TextWineditor.csproj.AssemblyReference.cache
+C:\Users\Максим\source\repos\TextWineditor\TextWineditor\obj\Debug\TextWineditor.Properties.Resources.resources
+C:\Users\Максим\source\repos\TextWineditor\TextWineditor\obj\Debug\TextWineditor.csproj.GenerateResource.cache
+C:\Users\Максим\source\repos\TextWineditor\TextWineditor\obj\Debug\TextWineditor.csproj.CoreCompileInputs.cache
+C:\Users\Максим\source\repos\TextWineditor\TextWineditor\obj\Debug\TextWineditor.exe
+C:\Users\Максим\source\repos\TextWineditor\TextWineditor\obj\Debug\TextWineditor.pdb
+C:\Users\Максим\source\repos\TextWineditor\TextWineditor\obj\Debug\TextWineditor.Help.resources
+C:\Users\Максим\source\repos\TextWineditor\TextWineditor\obj\Debug\TextWineditor.Main.resources
