@@ -7,7 +7,7 @@ MADE WITH - **C#/WinForms**, <br>
 IDE - **Microsoft Visual Studio 2022**,
 <br><hr>
 **ICONS WERE TAKEN FROM THIS SITE:** https://www.iconshock.com/cartoon-icons <hr><br>
-# Tutorial
+# **Tutorial**
 ### TO OPEN FILE
 ![изображение](https://github.com/user-attachments/assets/360f663a-9d9c-4014-95a0-b5034a0736c5)
 
