@@ -1,13 +1,13 @@
-# LICENSE
+## LICENSE
 This code doesn't contain any license, it's free to use, edit, **even steal**. <br>
 
-# ABOUT APP
+## ABOUT APP
 **TextWineditor** - TEXT EDITOR, <br>
 MADE WITH - **C#/WinForms**, <br>
 IDE - **Microsoft Visual Studio 2022**,
 <br><hr>
 **ICONS WERE TAKEN FROM THIS SITE:** https://www.iconshock.com/cartoon-icons <br><hr><br>
-# Tutorial
+## Tutorial
 ### TO OPEN FILE
 ![изображение](https://github.com/user-attachments/assets/360f663a-9d9c-4014-95a0-b5034a0736c5)
 
